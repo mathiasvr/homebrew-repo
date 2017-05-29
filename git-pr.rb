@@ -1,8 +1,8 @@
 class GitPr < Formula
   desc "Git extension for making GitHub pull requests from the command-line."
   homepage "https://github.com/mathiasvr/git-pr"
-  url "https://github.com/mathiasvr/git-pr/archive/v0.5.tar.gz"
-  sha256 "817c314efa2440460121064be0667389ecb0278419e4bf6506002d16ec17556a"
+  url "https://github.com/mathiasvr/git-pr/archive/v0.6.tar.gz"
+  sha256 "5a1e14c44a0c23d656215ea7a29e7949d1fd08ea7cb54efd8d47011a73013c1b"
   head "https://github.com/mathiasvr/git-pr.git"
 
   depends_on "jq"
